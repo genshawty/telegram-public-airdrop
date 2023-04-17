@@ -1,0 +1,11 @@
+/airdrop_checker/
+data/
+/__pycache__/
+test.py
+followers.json
+*.log
+*.txt
+.env
+functions/settings.py
+functions/token.json
+db.py
